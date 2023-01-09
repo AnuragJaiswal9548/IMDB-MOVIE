@@ -1,2 +1,2 @@
-# EDA-353-PROJECT
+# IMDB MOVIE RATING DATASET
 on Jupyter Notebook 
